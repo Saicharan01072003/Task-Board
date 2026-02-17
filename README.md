@@ -1,4 +1,4 @@
-# Task Board Internship - 100% Coverage
+# Task Board 
 
 ## Features
 - Static login with remember me
